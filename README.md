@@ -18,7 +18,16 @@ tools - notion / github / discord <br/>
 <br/>
 
 ## 프론트 개발 화면
-| 푸시알람 |
+| 푸시알람 | 
 |----------|
 |<img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%9E%8C.png?raw=true" width=300px />|
+* 앱을 사용하지 않을 때 사용자에게 알람을 주어야하기 때문에 푸시알림 제공
 
+
+| 메인 화면 | 각 알림 세부 내용 |
+|----------| ------------ |
+|<img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%EC%95%8C%E3%84%B9%EB%9E%8C%EC%97%AC%EB%9F%AC%EA%B0%9C.png" />| <img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/base%20stt.png" /> |
+* 소음 및 음성 탐지 후 사용자에게 상황별 알림 제공
+* 음성이 탐지 된 경우에는 stt를 통해 텍스트 제공
+
+| 

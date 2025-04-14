@@ -18,16 +18,6 @@ tools - notion / github / discord <br/>
 <br/>
 
 ## 프론트 개발 화면
-<table>
-  <tr>
-    <td style="text-align: center">
-      푸시알람
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%9E%8C.png?raw=true" width=300px />
-    </td>
-  </tr>
-</table>
-
+| 푸시알람 |
+|----------|
+<img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%9E%8C.png?raw=true" width=300px />

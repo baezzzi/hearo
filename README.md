@@ -26,7 +26,7 @@ tools - notion / github / discord <br/>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%9E%8C.png?raw-true" width=100px />
+      <img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%9E%8C.png?raw-true" width=300px />
     </td>
   </tr>
 </table>

@@ -38,7 +38,7 @@ tools - notion / github / discord <br/>
 
 | 캘린더 알람 세부 | stt 내용 확인 |
 | ------------ | ----------- |
-|<img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%EC%95%88%EB%82%B4%EB%B0%A9%EC%86%A1%EC%84%B8%EB%B6%80.png" /> | <img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%EC%95%88%EB%82%B4%EB%B0%94%EC%86%A1sttfull.png" /> |
+|<img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%EC%95%88%EB%82%B4%EB%B0%A9%EC%86%A1%EC%9E%87%EC%96%B4%EC%9A%94.png" /> | <img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%EC%95%88%EB%82%B4%EB%B0%A9%EC%86%A1STT.png" /> |
 * 캘린더에서 미확인/확인 알람 전부 확인 가능
 * 음성 탐지 경우, stt 제공, 이전 알림 확인 가능
 

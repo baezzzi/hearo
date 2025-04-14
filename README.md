@@ -7,4 +7,14 @@
 * 위급 상황 발생 시 사용자에게 알림
 * 알림은 대상자를 고려하여 진동으로 진행
 
-##
+## 개발 환경
+Front End - react native / Firebase
+Back End - Spring boot / Firebase / redis / MongoDB
+AI - tensorflow / OpenAI / FastAPI
+이슈 및 유지보수 - Docker / Github action 
+Design - figma
+tools - notion / github / discord
+
+## 프론트 개발 화면
+
+

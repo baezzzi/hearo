@@ -8,17 +8,17 @@
 * 알림은 대상자를 고려하여 진동으로 진행
 
 ## 개발 환경
-Front End - react native / Firebase
-Back End - Spring boot / Firebase / redis / MongoDB
-AI - tensorflow / OpenAI / FastAPI
-이슈 및 유지보수 - Docker / Github action 
-Design - figma
-tools - notion / github / discord
+Front End - react native / Firebase <br />
+Back End - Spring boot / Firebase / redis / MongoDB <br />
+AI - tensorflow / OpenAI / FastAPI <br />
+이슈 및 유지보수 - Docker / Github action <br />
+Design - figma <br />
+tools - notion / github / discord <br/>
 
 ## 프론트 개발 화면
 <table>
   <tr>
-    <p>푸시알람</p>
+    <th>푸시알람</th>
     <td>
       <img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%9E%8C.png" />
     </td>

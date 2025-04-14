@@ -20,13 +20,13 @@ tools - notion / github / discord <br/>
 ## 프론트 개발 화면
 <table>
   <tr>
-    <td>
+    <td algin="center">
       푸시알람
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%9E%8C.png" />
+    <td align="center">
+      <img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%9E%8C.png?raw-true" width=100px />
     </td>
   </tr>
 </table>

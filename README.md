@@ -26,7 +26,7 @@ tools - notion / github / discord <br/>
 
 | 메인 화면 | 각 알림 세부 내용 |
 |----------| ------------ |
-|<img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%EC%95%8C%E3%84%B9%EB%9E%8C%EC%97%AC%EB%9F%AC%EA%B0%9C.png" />| <img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/base%20stt.png" width=200px/> |
+|<img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%EC%95%8C%E3%84%B9%EB%9E%8C%EC%97%AC%EB%9F%AC%EA%B0%9C.png" />| <img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/base%20stt.png" width=50%/> |
 * 소음 및 음성 탐지 후 사용자에게 상황별 알림 제공
 * 음성이 탐지 된 경우에는 stt를 통해 텍스트 제공
 

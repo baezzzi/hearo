@@ -1,5 +1,5 @@
 # 당신의 귀가 되어드립니다. 실내 소음 탐지 시스템 hearO✨
-<img src="https://github.com/baezzzi/hearo/blob/main/hearo.png"/>
+<img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/hearo.png"/>
 
 ## 서비스 소개
 * 농인 및 청력의 불편함을 겪는 대상에게 서비스 제공
@@ -16,5 +16,12 @@ Design - figma
 tools - notion / github / discord
 
 ## 프론트 개발 화면
-
+<table>
+  <tr>
+    푸시알람
+    <td>
+      <img src="https://github.com/baezzzi/hearo/blob/main/hearo%20ui/%ED%91%B8%EC%8B%9C%EC%95%8C%EB%9E%8C.png" />
+    </td>
+  </tr>
+</table>
 

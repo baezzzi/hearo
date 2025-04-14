@@ -20,7 +20,7 @@ tools - notion / github / discord <br/>
 ## 프론트 개발 화면
 <table>
   <tr>
-    <td style="text-align: center;">
+    <td style="text-align: center">
       푸시알람
     </td>
   </tr>
